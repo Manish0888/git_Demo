@@ -1,1 +1,1 @@
-print{"wassup Buddy V8"}
+print{"wassup Buddy || V8"}
